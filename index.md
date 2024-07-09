@@ -24,7 +24,7 @@
 
 <audio controls="" style="width: 250px; height: 50px"><source src="data/predict/ours/2.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="data/clean/2.wav" type="audio/wav"></audio>
 
-### SNR = -0
+### SNR = 0
 
 &emsp;&emsp;&emsp;&emsp;**Noisy(at 16kHz)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**TF module 1**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Time module**
 
