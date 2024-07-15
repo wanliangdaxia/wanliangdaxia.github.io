@@ -8,51 +8,50 @@
 
 &emsp;&emsp;&emsp;&emsp;**Noisy(at 16kHz)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**TF module 1**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Time module**
 
-<audio controls="" style="width: 250px; height: 50px"><source src="data/noisy/1.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="data/predict/UNet+I-DTLN/1.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="data/predict/VoiceFixer/1.wav" type="audio/wav"></audio>
+<audio controls="" style="width: 250px; height: 50px"><source src="demopage1/noisy_-6.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="demopage1/TF1_-6.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="demopage/Time_-6.wav" type="audio/wav"></audio>
 
 &emsp;&emsp;&emsp;&emsp;**TF module 2**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Clean(Reference)**
 
-<audio controls="" style="width: 250px; height: 50px"><source src="data/predict/ours/1.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="data/clean/1.wav" type="audio/wav"></audio>
+<audio controls="" style="width: 250px; height: 50px"><source src="demopage/TF2_-6.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="demopage/clean_-6.wav" type="audio/wav"></audio>
 
 ### SNR = -3
 
 &emsp;&emsp;&emsp;&emsp;**Noisy(at 16kHz)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**TF module 1**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Time module**
 
-<audio controls="" style="width: 250px; height: 50px"><source src="data/noisy/2.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="data/predict/UNet+I-DTLN/2.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="data/predict/VoiceFixer/2.wav" type="audio/wav"></audio>
+<audio controls="" style="width: 250px; height: 50px"><source src="demopage1/noisy_-3.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="demopage1/TF1_-3.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="demopage/Time_-3.wav" type="audio/wav"></audio>
 
 &emsp;&emsp;&emsp;&emsp;**TF module 2**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Clean(Reference)**
 
-<audio controls="" style="width: 250px; height: 50px"><source src="data/predict/ours/2.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="data/clean/2.wav" type="audio/wav"></audio>
+<audio controls="" style="width: 250px; height: 50px"><source src="demopage/TF2_-3.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="demopage/clean_-3.wav" type="audio/wav"></audio>
 
 ### SNR = 0
 
 &emsp;&emsp;&emsp;&emsp;**Noisy(at 16kHz)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**TF module 1**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Time module**
 
-<audio controls="" style="width: 250px; height: 50px"><source src="data/noisy/3.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="data/predict/UNet+I-DTLN/3.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="data/predict/VoiceFixer/3.wav" type="audio/wav"></audio>
+<audio controls="" style="width: 250px; height: 50px"><source src="demopage1/noisy_0.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="demopage1/TF1_0.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="demopage/Time_0.wav" type="audio/wav"></audio>
 
 &emsp;&emsp;&emsp;&emsp;**TF module 2**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Clean(Reference)**
 
-<audio controls="" style="width: 250px; height: 50px"><source src="data/predict/ours/3.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="data/clean/3.wav" type="audio/wav"></audio>
+<audio controls="" style="width: 250px; height: 50px"><source src="demopage/TF2_0.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="demopage/clean_0.wav" type="audio/wav"></audio>
 
 ### SNR = 3
 
 &emsp;&emsp;&emsp;&emsp;**Noisy(at 16kHz)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**TF module 1**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Time module**
 
-<audio controls="" style="width: 250px; height: 50px"><source src="data/noisy/4.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="data/predict/UNet+I-DTLN/4.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="data/predict/VoiceFixer/4.wav" type="audio/wav"></audio>
+<audio controls="" style="width: 250px; height: 50px"><source src="demopage1/noisy_3.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="demopage1/TF1_3.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="demopage/Time_3.wav" type="audio/wav"></audio>
 
 &emsp;&emsp;&emsp;&emsp;**TF module 2**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Clean(Reference)**
 
-<audio controls="" style="width: 250px; height: 50px"><source src="data/predict/ours/4.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="data/clean/4.wav" type="audio/wav"></audio>
-
+<audio controls="" style="width: 250px; height: 50px"><source src="demopage/TF2_3.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="demopage/clean_3.wav" type="audio/wav"></audio>
 ### SNR = 6
 
 &emsp;&emsp;&emsp;&emsp;**Noisy(at 16kHz)**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**TF module 1**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Time module**
 
-<audio controls="" style="width: 250px; height: 50px"><source src="data/noisy/5.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="data/predict/UNet+I-DTLN/5.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="data/predict/VoiceFixer/5.wav" type="audio/wav"></audio>
+<audio controls="" style="width: 250px; height: 50px"><source src="demopage1/noisy_6.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="demopage1/TF1_6.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="demopage/Time_6.wav" type="audio/wav"></audio>
 
 &emsp;&emsp;&emsp;&emsp;**TF module 2**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Clean(Reference)**
 
-<audio controls="" style="width: 250px; height: 50px"><source src="data/predict/ours/5.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="data/clean/5.wav" type="audio/wav"></audio>
+<audio controls="" style="width: 250px; height: 50px"><source src="demopage/TF2_6.wav" type="audio/wav"></audio><audio controls="" style="width: 250px; height: 50px"><source src="demopage/clean_6.wav" type="audio/wav"></audio>
 
 ## **2. Performance comparison of different models**
 
